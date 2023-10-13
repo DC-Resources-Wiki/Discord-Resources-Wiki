@@ -1,4 +1,4 @@
----
+1139509156596944937---
 title: Official Discord Badges
 sidebar_position: 6
 description: Official badges from Discord.
