@@ -41,7 +41,7 @@ We want to thank:<br/>
 @421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker <br/>
 @427146305651998721 - Maintainer <br/>
 @255553750654124032 - Maintainer <br />
-@582211583938134028 - Maintainer <br/>
+@255553750654124032 - Maintainer <br/>
 @347077478726238228 - Maintainer <br />
 @340243638892101646 - Maintainer <br />
 
