@@ -11,7 +11,6 @@ description: Fun and useful links and images
 <https://when.lol/> | When did I ask   <br/>
 <https://didnt-a.sk/> | When did I ask 2.0  <br/>
 <https://dtesters.glitch.me/pin> | Check the pins   <br/>
-<https://dead-ch.at/> | No dead chat   <br/>
 <https://dtesters.glitch.me/dev> | No dev client   <br/>
 <https://annoying.name/> | Annoying name   <br/>
 <https://dontuwu.glitch.me/> | Don't uwu  <br/>
