@@ -15,7 +15,7 @@ description: Unofficial resources for Discord.
 ## Discord For Designers
 
 > **Description:** A site filled with useful resources for designers such as mockups, icons, and UI kits.  <br/>
-**Link:** [Discord For Designers](https://dfd.muatex.uk/)  <br/>
+**Link:** [Discord For Designers](https://web.archive.org/web/20230202150236/https://dfd.muatex.uk/)  <br/>
 **Credit:** @530408906686726144
 
 ## Discord Previews
