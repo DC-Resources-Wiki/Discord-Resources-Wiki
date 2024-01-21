@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD041 MD033 -->
 <p align="center">
   <a href="https://discordresources.com/">
-    <img src="https://raw.githubusercontent.com/Discord-Resources-Wiki/Discord-Resources-Wiki/main/static/img/logo-small.png" height="96">
+    <img src="https://raw.githubusercontent.com/DC-Resources-Wiki/Discord-Resources-Wiki/main/static/img/logo-small.png" height="96">
     <h3 align="center">Discord Resources Wiki</h3>
   </a>
 </p>
