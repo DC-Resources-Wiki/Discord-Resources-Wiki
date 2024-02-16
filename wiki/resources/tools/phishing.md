@@ -26,7 +26,8 @@ description: Phishing and Security tools
 [Jagrosh's List](https://github.com/jagrosh/Vortex/tree/master/lists)   <br/>
 [Pihole Blocklist](https://github.com/mhhakim/pihole-blocklist/)   <br/>
 [Elkbr's List](https://github.com/elbkr/bad-websites)  <br/>
-[WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json)
+[WalshyDev's List](https://github.com/WalshyDev/Discord-bad-domains/blob/main/bad-domains.json) <br/>
+[Blocklist shortlinks scams](https://github.com/ravenastar-js/shortlinks-scams/blob/main/scams/shortlinks.json) (credit: @367893062812434432)
 
 ## Database full of malicious links
 
