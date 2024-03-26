@@ -34,7 +34,7 @@ description: Unofficial servers related to Discord
 ## Displace
 
 > **Description:** The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
-**Link(s):** [Displace server](https://discord.gg/datplace) | [Displace Website](https://dat.place/)   <br/>
+**Link(s):** [Displace server](https://discord.gg/datplace)   <br/>
 **Credit:** The Displace team (owned by @152177634179022848)
 
 @gg/datplace
