@@ -24,7 +24,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <td>Completed a Quest</td>
         <td><img src="/img/quest.svg"></img></td>
         <td>✅</td>
-        <td>Complete a Quest.**</td>
+        <td>Complete a Quest.</td>
         <td>(Unknown)</td>
     </tr>
     <tr>
