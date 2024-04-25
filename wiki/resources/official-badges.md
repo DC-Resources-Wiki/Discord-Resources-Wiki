@@ -20,7 +20,14 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <th>Earned by</th>
         <th>Flag</th>
     </tr>
-        <tr>
+    <tr>
+        <td>Completed a Quest</td>
+        <td><img src="/img/quest.svg"></img></td>
+        <td>✅</td>
+        <td>Complete a Quest.</td>
+        <td>(Unknown)</td>
+    </tr>
+    <tr>
         <td>A clown, for a limited time</td>
         <td><img src="/img/discordlootbox.svg"></img></td>
         <td>✅</td>
