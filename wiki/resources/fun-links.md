@@ -21,7 +21,6 @@ description: Fun and useful links and images
 <https://nohello.net/> | Don't just say hello 2.0 <br/>
 <https://dontasktoask.com/> | Don't ask to ask   <br/>
 <https://xyproblem.info/> | The XY Problem <br/>
-<https://ur-not.pro/> | You're not pro  <br/>
 
 
 ## HTTP Codes
@@ -35,7 +34,6 @@ description: Fun and useful links and images
 > <https://bigrat.monster/> | Big rat   <br/>
 <https://roing.us/> | Click the creature  <br/>
 <https://no-bitch.es/> | No bitches  <br/>
-<https://why-stup.id> | Why are you stupid <br/>
 <https://ian-deploy.xyz/> | Ian deploy  <br/>
 <https://xkcd.com/> | A webcomic of romance, sarcasm, math, and language.  <br/>
 <http://eval-deez-nuts.xyz/> | "Eval deez nuts" – Ian "Desch" Mitchell <br/>
@@ -52,7 +50,6 @@ description: Fun and useful links and images
 <https://www.whosampled.com/> | Who sampled   <br/>
 <https://chir.ag/projects/tip-of-my-tongue/> | Tip of my tongue   <br/>
 <https://shouldiblamecaching.com/> | Should I blame caching?  <br/>
-<https://does.discord.work/> | Redirect to the discord status page  <br/>
 <https://emoji.supply/kitchen/> | Emoji merger <br/>
 <https://tikolu.net/elevation/> | How high are you (above sea level)  <br/>
 <https://tikolu.net/emojimix/> | Emoji mixer  <br/>
