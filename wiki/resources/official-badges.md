@@ -30,7 +30,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
     <tr>
         <td>A clown, for a limited time</td>
         <td><img src="/img/discordlootbox.svg"></img></td>
-        <td>✅</td>
+        <td>❌</td>
         <td>Unlock all Lootbox rewards during the Discord April Fools event and select the Avatar Decoration as your main one</td>
         <td> (Unknown) </td>
     </tr>
