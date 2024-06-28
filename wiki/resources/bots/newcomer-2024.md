@@ -1,5 +1,5 @@
 ---
-title: Best Newcomer Discord Bots of 2023
+title: Best Newcomer Discord Bots of 2024
 sidebar_position: 3
 description: Best Newcomer Discord bot recommendations of 2023.
 ---
