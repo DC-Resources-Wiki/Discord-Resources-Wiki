@@ -135,7 +135,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 
 </table>
 
-** The tester program is currently only available for a select group of people
+\*\* The tester program is currently only available for a select group of people
 
 # Bot Badges
 
@@ -309,6 +309,48 @@ Discord badges are epic-looking achievements to make your profile look cool. The
     </tr>
 </table>
 
+# Guild Badges
+
+The following badges are included in the new clan tags. Guild owners can customize and assign them to their guild. There is a total of 21!
+
+<table>
+ <tr>
+                <td><img src="/img/guilds/21.svg" alt="21"></td>
+                <td><img src="/img/guilds/20.svg" alt="20"></td>
+                <td><img src="/img/guilds/19.svg" alt="19"></td>
+                <td><img src="/img/guilds/18.svg" alt="18"></td>
+                <td><img src="/img/guilds/17.svg" alt="17"></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/16.svg" alt="16"></td>
+                <td><img src="/img/guilds/15.svg" alt="15"></td>
+                <td><img src="/img/guilds/14.svg" alt="14"></td>
+                <td><img src="/img/guilds/13.svg" alt="13"></td>
+                <td><img src="/img/guilds/12.svg" alt="12"></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/11.svg" alt="11"></td>
+                <td><img src="/img/guilds/10.svg" alt="10"></td>
+                <td><img src="/img/guilds/9.svg" alt="9"></td>
+                <td><img src="/img/guilds/8.svg" alt="8"></td>
+                <td><img src="/img/guilds/7.svg" alt="7"></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/6.svg" alt="6"></td>
+                <td><img src="/img/guilds/5.svg" alt="5"></td>
+                <td><img src="/img/guilds/4.svg" alt="4"></td>
+                <td><img src="/img/guilds/3.svg" alt="3"></td>
+                <td><img src="/img/guilds/2.svg" alt="2"></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/1.svg" alt="1"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+</table>
+
 # Hall of Fame
 
 A collection of unique events that happened on Discord.
@@ -319,8 +361,16 @@ A collection of unique events that happened on Discord.
         <th>Image</th>
     </tr>
     <tr>
-        <td>Due to the Moderator Alumni server being closed down Sapphire was one of the only bots to ever obtain the Moderator Programs Alumni badge.</td>
-        <td><img src="/img/fame/sapphiremod.png"></img></td>
+        <td>Due to the Moderator Alumni server being closed down Sapphire and GearBot were one of the only APPS to ever obtain the **Moderator Programs Alumni** badge.</td>
+        <td><img src="/img/fame/sapphiremod.png"></img><img src="/img/fame/gearmod.png"></img></td>
+    </tr>
+        <tr>
+        <td>In February of 2019, Discord teamed up with King of the Hat to make a Hypesquad Balance themed badge. Anyone in the Hypesquad Balance house was able to keep the badge for one month. King of the hat was the first game to be brought to Discord and was free for one week. A [competition](https://medium.com/king-of-the-hat/hat-is-free-this-week-and-this-week-only-v-f9fa0987688b) between the Hypesquad houses was also held, with a custom PC being given away. The user DPS Abook, who was representing HypeSquad Brilliance won the competition.</td>
+        <td><img src="/img/fame/kothhypesquadbalance.svg"></img></td>
+    </tr>
+        <tr>
+        <td>For [Snowsgiving](https://discord.fandom.com/wiki/Snowsgiving) 2019, users in the Hypesquad Balance house had their badge changed from green to gold. Discord held a money raising competition that resulted in the House of Balance winning and the badge was temporarily gold until February 3rd, 2020. This is the only animated badge that has been on Discord. It would shine every few seconds.</td>
+        <td><img src="/img/fame/goldenhypesquadbalance.svg"></img></td>
     </tr>
 </table>
 
@@ -336,10 +386,22 @@ Some badges changed over time, here is a list of all the changes.
         <th>Date Changed</th>
     </tr>
     <tr>
-        <td>Early Verified Bot Developer</td>
-        <td>Verified Bot Developer</td>
-        <td>Early Verified Bot Developer</td>
-        <td>2020-08-19</td>
+        <td>Bot Flare</td>
+        <td>Named BOTS</td>
+        <td>Renamed to <b>APPS</b></td>
+        <td>2024-04-17</td>
+    </tr>
+        <tr>
+        <td>Discord Partner Program</td>
+        <td>---</td>
+        <td>Closed down</td>
+        <td>2023-10-05</td>
+    </tr>
+        <tr>
+        <td>Moderator Programs Alumni</td>
+        <td><img src="/img/olddiscordmod.svg"></img><br />Discord Certified Moderator</td>
+        <td><img src="/img/discordmod.svg"></img><br />Moderator Programs Alumn</td>
+        <td>2022-12-01</td>
     </tr>
     <tr>
         <td>Discord Partner</td>
@@ -347,10 +409,10 @@ Some badges changed over time, here is a list of all the changes.
         <td><img src="/img/discordpartner.svg"></img></td>
         <td>2022-05-31</td>
     </tr>
-    <tr>
-        <td>Moderator Programs Alumni</td>
-        <td><img src="/img/olddiscordmod.svg"></img><br />Discord Certified Moderator</td>
-        <td><img src="/img/discordmod.svg"></img><br />Moderator Programs Alumn</td>
-        <td>2022-12-01</td>
+        <tr>
+        <td>Early Verified Bot Developer</td>
+        <td>Verified Bot Developer</td>
+        <td>Early Verified Bot Developer</td>
+        <td>2020-08-19</td>
     </tr>
 </table>
