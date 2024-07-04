@@ -24,7 +24,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <td>Completed a Quest</td>
         <td><img src="/img/quest.png"></img></td>
         <td>✅</td>
-        <td>Complete a Quest.</td>
+        <td>When completing a quest from the gift inventory tab</td>
         <td>(Unknown)</td>
     </tr>
     <tr>
@@ -33,27 +33,6 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <td>❌</td>
         <td>Unlock all Lootbox rewards during the Discord April Fools event and select the Avatar Decoration as your main one</td>
         <td> (Unknown) </td>
-    </tr>
-    <tr>
-        <td>Supports Commands</td>
-        <td><img src="/img/supportscommands.svg"></img></td>
-        <td>✅ (Bots ONLY)</td>
-        <td>Bot must use <a href="https://discord.com/blog/welcome-to-the-new-era-of-discord-apps">application commands</a> to earn this badge.</td>
-        <td>8388608 (2^23)</td>
-    </tr>
-    <tr>
-        <td>Uses Automod</td>
-        <td><img src="/img/automod.svg"></img></td>
-        <td>✅ (Bots ONLY)</td>
-        <td>100 active automod rules created.</td>
-        <td>16777216 (2^24)</td>
-    </tr>
-    <tr>
-        <td>This server has Bot Name premium</td>
-        <td><img src="/img/premiumbot.png"></img></td>
-        <td>✅ (Bots ONLY)</td>
-        <td>Given to premium bots on the server that bought premium using discords in-app purchase option.</td>
-        <td>(Unknown)</td>
     </tr>
     <tr>
         <td>Originally known as</td>
@@ -157,6 +136,39 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 </table>
 
 ** The tester program is currently only available for a select group of people
+
+# Bot Badges
+
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Badge</th>
+        <th>Obtainable</th>
+        <th>Earned by</th>
+        <th>Flag</th>
+    </tr>
+   <tr>
+        <td>Supports Commands</td>
+        <td><img src="/img/supportscommands.svg"></img></td>
+        <td>✅</td>
+        <td>Bot must use <a href="https://discord.com/blog/welcome-to-the-new-era-of-discord-apps">application commands</a> to earn this badge.</td>
+        <td>8388608 (2^23)</td>
+    </tr>
+    <tr>
+        <td>Uses Automod</td>
+        <td><img src="/img/automod.svg"></img></td>
+        <td>✅</td>
+        <td>100 active automod rules created.</td>
+        <td>16777216 (2^24)</td>
+    </tr>
+    <tr>
+        <td>This server has Bot Name premium</td>
+        <td><img src="/img/premiumbot.png"></img></td>
+        <td>✅</td>
+        <td>Given to premium bots on the server that bought premium using discords in-app purchase option.</td>
+        <td>(Unknown)</td>
+    </tr>
+</table>
 
 # Nitro Boost Tiers
 
