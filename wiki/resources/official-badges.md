@@ -321,35 +321,35 @@ The following badges are included in the new clan tags. Guild owners can customi
 
 <table>
  <tr>
-                <td><img src="/img/guilds/21.svg" alt="21"></td>
-                <td><img src="/img/guilds/20.svg" alt="20"></td>
-                <td><img src="/img/guilds/19.svg" alt="19"></td>
-                <td><img src="/img/guilds/18.svg" alt="18"></td>
-                <td><img src="/img/guilds/17.svg" alt="17"></td>
+                <td><img src="/img/guilds/21.svg" alt="21"></img></td>
+                <td><img src="/img/guilds/20.svg" alt="20"></img></td>
+                <td><img src="/img/guilds/19.svg" alt="19"></img></td>
+                <td><img src="/img/guilds/18.svg" alt="18"></img></td>
+                <td><img src="/img/guilds/17.svg" alt="17"></img></td>
             </tr>
             <tr>
-                <td><img src="/img/guilds/16.svg" alt="16"></td>
-                <td><img src="/img/guilds/15.svg" alt="15"></td>
-                <td><img src="/img/guilds/14.svg" alt="14"></td>
-                <td><img src="/img/guilds/13.svg" alt="13"></td>
-                <td><img src="/img/guilds/12.svg" alt="12"></td>
+                <td><img src="/img/guilds/16.svg" alt="16"></img></td>
+                <td><img src="/img/guilds/15.svg" alt="15"></img></td>
+                <td><img src="/img/guilds/14.svg" alt="14"></img></td>
+                <td><img src="/img/guilds/13.svg" alt="13"></img></td>
+                <td><img src="/img/guilds/12.svg" alt="12"></img></td>
             </tr>
             <tr>
-                <td><img src="/img/guilds/11.svg" alt="11"></td>
-                <td><img src="/img/guilds/10.svg" alt="10"></td>
-                <td><img src="/img/guilds/9.svg" alt="9"></td>
-                <td><img src="/img/guilds/8.svg" alt="8"></td>
-                <td><img src="/img/guilds/7.svg" alt="7"></td>
+                <td><img src="/img/guilds/11.svg" alt="11"></img></td>
+                <td><img src="/img/guilds/10.svg" alt="10"></img></td>
+                <td><img src="/img/guilds/9.svg" alt="9"></img></td>
+                <td><img src="/img/guilds/8.svg" alt="8"></img></td>
+                <td><img src="/img/guilds/7.svg" alt="7"></img></td>
             </tr>
             <tr>
-                <td><img src="/img/guilds/6.svg" alt="6"></td>
-                <td><img src="/img/guilds/5.svg" alt="5"></td>
-                <td><img src="/img/guilds/4.svg" alt="4"></td>
-                <td><img src="/img/guilds/3.svg" alt="3"></td>
-                <td><img src="/img/guilds/2.svg" alt="2"></td>
+                <td><img src="/img/guilds/6.svg" alt="6"></img></td>
+                <td><img src="/img/guilds/5.svg" alt="5"></img></td>
+                <td><img src="/img/guilds/4.svg" alt="4"></img></td>
+                <td><img src="/img/guilds/3.svg" alt="3"></img></td>
+                <td><img src="/img/guilds/2.svg" alt="2"></img></td>
             </tr>
             <tr>
-                <td><img src="/img/guilds/1.svg" alt="1"></td>
+                <td><img src="/img/guilds/1.svg" alt="1"></img></td>
                 <td></td>
                 <td></td>
                 <td></td>
