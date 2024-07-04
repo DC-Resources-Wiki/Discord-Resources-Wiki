@@ -8,7 +8,7 @@ description: Official badges from Discord.
 
 A collection featuring every badge on Discord!
 
-Discord badges are epic-looking achievements to make your profile look cool. They are given out by Discord for various reasons, such as being a nitro booster, being a Discord partner, or being a Discord staff member. This collection features every badge on Discord for both staff/bot accounts and user accounts. This was made by @347077478726238228
+Discord badges are epic-looking achievements to make your profile look cool. They are given out by Discord for various reasons, such as being a nitro booster, being a Discord partner, or being a Discord staff member. This collection features every badge on Discord for both staff/bot accounts and user accounts. This was made by @347077478726238228 and is based on [this github repository](https://github.com/mezotv/discord-badges)
 
 # General Badges
 
