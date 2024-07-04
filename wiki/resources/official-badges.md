@@ -235,6 +235,12 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <th>Obtainable</th>
         <th>Earned by</th>
     </tr>
+        <tr>
+        <td>Internal Employee (Staff)</td>
+        <td><img src="/img/server/Staff.svg"></img></td>
+        <td>❌ (Not for normal users)</td>
+        <td>Given to servers with the INTERNAL_EMPLOYEE_ONLY feature flag</td>
+    </tr>
     <tr>
         <td>Partnered Server</td>
         <td><img src="/img/server/Partnered.svg"></img></td>
