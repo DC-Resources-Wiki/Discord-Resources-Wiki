@@ -132,8 +132,11 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>16384 (2^14)</td>
    </tr>
 </table>
+
 \*\* The tester program is currently only available for a select group of people
+
 # Bot Badges
+
 <table>
    <tr>
       <th>Title</th>
@@ -164,7 +167,9 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>(Unknown)</td>
    </tr>
 </table>
+
 # Nitro Boost Tiers
+
 <table>
    <tr>
       <th>Title</th>
@@ -217,7 +222,9 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>Boost a Discord server for 2 years straight.</td>
    </tr>
 </table>
+
 # Server Badges
+
 <table>
    <tr>
       <th>Title</th>
@@ -268,7 +275,9 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>Given to servers that have community features enabled.</td>
    </tr>
 </table>
+
 # Special Flairs
+
 <table>
    <tr>
       <th>Title</th>
@@ -325,8 +334,11 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>Given to the original poster of a forum post.</td>
    </tr>
 </table>
+
 # Guild Badges
+
 The following badges are included in the new clan tags. Guild owners can customize and assign them to their guild. There is a total of 21!
+
 <table>
 <tr>
                 <td><img src="/img/guilds/21.svg" alt="21"></img></td>
@@ -364,8 +376,11 @@ The following badges are included in the new clan tags. Guild owners can customi
       <td></td>
    </tr>
 </table>
+
 # Hall of Fame
+
 A collection of unique events that happened on Discord.
+
 <table>
    <tr>
       <th>Explanation</th>
@@ -384,8 +399,11 @@ A collection of unique events that happened on Discord.
       <td><img src="/img/fame/goldenhypesquadbalance.svg"></img></td>
    </tr>
 </table>
+
 # Badge Change Log
+
 Some badges changed over time, here is a list of all the changes.
+
 <table>
    <tr>
       <th>Badge</th>
