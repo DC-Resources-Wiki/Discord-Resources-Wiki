@@ -289,29 +289,53 @@ Discord badges are epic-looking achievements to make your profile look cool. The
         <th>Obtainable</th>
         <th>Earned by</th>
     </tr>
+        <tr>
+        <td>Official</td>
+        <td><img src="/img/special/Official.svg"></img></td>
+        <td>❌</td>
+        <td>Reserved for discord official system or automod messages. (New)</td>
+    </tr>
     <tr>
         <td>System</td>
-        <td><img src="/img/special/System.png"></img></td>
+        <td><img src="/img/special/System.svg"></img></td>
         <td>❌</td>
-        <td>Cannot earn. Used by Discord for official system messages.</td>
+        <td>Reserved for discord system or automod messages. (Old)</td>
+    </tr>
+        <tr>
+        <td>Server</td>
+        <td><img src="/img/special/Server.svg"></img></td>
+        <td>✅</td>
+        <td>Reserved by a "webhook" by following a channel.</td>
     </tr>
     <tr>
-        <td>Verified Bot</td>
-        <td><img src="/img/special/Verified-Bot.png"></img></td>
+        <td>Verified Bot/App</td>
+        <td><img src="/img/special/VerifiedBot.svg"></img><img src="/assets/special/VerifiedApp.svg"></img></td>
         <td>✅</td>
-        <td>Obtained by a verified bot. (75+ Servers)</td>
+        <td>Obtained by a verified bot.</td>
     </tr>
     <tr>
-        <td>Bot</td>
-        <td><img src="/img/special/Bot.png"></img></td>
+        <td>Bot/App</td>
+        <td><img src="/img/special/Bot.svg"></img><img src="/img/special/App.svg"></img></td>
         <td>✅</td>
-        <td>Obtained by an unverified bot.</td>
+        <td>Obtained by an unverified app.</td>
+    </tr>
+        <tr>
+        <td>Beta</td>
+        <td><img src="/img/special/Beta.svg"></img></td>
+        <td>❌</td>
+        <td>Reserved for in beta features (Also off center).</td>
     </tr>
     <tr>
         <td>Ai</td>
-        <td><img src="/img/special/Ai.png"></img></td>
+        <td><img src="/img/special/LightAi.svg"></img><img src="/img/special/DarkAi.svg"></img></td>
         <td>❌</td>
         <td>Only for the Clyde Ai bot.</td>
+    </tr>
+        <tr>
+        <td>Ai</td>
+        <td><img src="/img/special/OriginalPoster.svg"></img></td>
+        <td>✅</td>
+        <td>Given to the original poster of a forum post.</td>
     </tr>
 </table>
 
