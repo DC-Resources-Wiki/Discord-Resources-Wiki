@@ -371,11 +371,11 @@ A collection of unique events that happened on Discord.
         <td><img src="/img/fame/sapphiremod.png"></img><img src="/img/fame/gearmod.png"></img></td>
     </tr>
         <tr>
-        <td>In February of 2019, Discord teamed up with King of the Hat to make a Hypesquad Balance themed badge. Anyone in the Hypesquad Balance house was able to keep the badge for one month. King of the hat was the first game to be brought to Discord and was free for one week. A [competition](https://medium.com/king-of-the-hat/hat-is-free-this-week-and-this-week-only-v-f9fa0987688b) between the Hypesquad houses was also held, with a custom PC being given away. The user DPS Abook, who was representing HypeSquad Brilliance won the competition.</td>
+        <td>In February of 2019, Discord teamed up with King of the Hat to make a Hypesquad Balance themed badge. Anyone in the Hypesquad Balance house was able to keep the badge for one month. King of the hat was the first game to be brought to Discord and was free for one week. A  <a href="https://medium.com/king-of-the-hat/hat-is-free-this-week-and-this-week-only-v-f9fa0987688b">competition</a> between the Hypesquad houses was also held, with a custom PC being given away. The user DPS Abook, who was representing HypeSquad Brilliance won the competition.</td>
         <td><img src="/img/fame/kothhypesquadbalance.svg"></img></td>
     </tr>
         <tr>
-        <td>For [Snowsgiving](https://discord.fandom.com/wiki/Snowsgiving) 2019, users in the Hypesquad Balance house had their badge changed from green to gold. Discord held a money raising competition that resulted in the House of Balance winning and the badge was temporarily gold until February 3rd, 2020. This is the only animated badge that has been on Discord. It would shine every few seconds.</td>
+        <td>For <a href="https://discord.fandom.com/wiki/Snowsgiving">Snowsgiving</a> 2019, users in the Hypesquad Balance house had their badge changed from green to gold. Discord held a money raising competition that resulted in the House of Balance winning and the badge was temporarily gold until February 3rd, 2020. This is the only animated badge that has been on Discord. It would shine every few seconds.</td>
         <td><img src="/img/fame/goldenhypesquadbalance.svg"></img></td>
     </tr>
 </table>
