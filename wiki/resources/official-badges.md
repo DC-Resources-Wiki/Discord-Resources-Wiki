@@ -3,10 +3,14 @@ title: Official Discord Badges
 sidebar_position: 6
 description: Official badges from Discord.
 ---
+
 # Discord Badges 🏆
+
 A collection featuring every badge on Discord!
 Discord badges are epic-looking achievements to make your profile look cool. They are given out by Discord for various reasons, such as being a nitro booster, being a Discord partner, or being a Discord staff member. This collection features every badge on Discord for both staff/bot accounts and user accounts. This was made by @347077478726238228 and is based on [this github repository](https://github.com/mezotv/discord-badges)
+
 # General Badges
+
 <table>
    <tr>
       <th>Title</th>
@@ -324,36 +328,36 @@ Discord badges are epic-looking achievements to make your profile look cool. The
 # Guild Badges
 The following badges are included in the new clan tags. Guild owners can customize and assign them to their guild. There is a total of 21!
 <table>
-   <tr>
-      <td><img src="/img/guilds/21.svg" alt="21"></td>
-      <td><img src="/img/guilds/20.svg" alt="20"></td>
-      <td><img src="/img/guilds/19.svg" alt="19"></td>
-      <td><img src="/img/guilds/18.svg" alt="18"></td>
-      <td><img src="/img/guilds/17.svg" alt="17"></td>
-   </tr>
-   <tr>
-      <td><img src="/img/guilds/16.svg" alt="16"></td>
-      <td><img src="/img/guilds/15.svg" alt="15"></td>
-      <td><img src="/img/guilds/14.svg" alt="14"></td>
-      <td><img src="/img/guilds/13.svg" alt="13"></td>
-      <td><img src="/img/guilds/12.svg" alt="12"></td>
-   </tr>
-   <tr>
-      <td><img src="/img/guilds/11.svg" alt="11"></td>
-      <td><img src="/img/guilds/10.svg" alt="10"></td>
-      <td><img src="/img/guilds/9.svg" alt="9"></td>
-      <td><img src="/img/guilds/8.svg" alt="8"></td>
-      <td><img src="/img/guilds/7.svg" alt="7"></td>
-   </tr>
-   <tr>
-      <td><img src="/img/guilds/6.svg" alt="6"></td>
-      <td><img src="/img/guilds/5.svg" alt="5"></td>
-      <td><img src="/img/guilds/4.svg" alt="4"></td>
-      <td><img src="/img/guilds/3.svg" alt="3"></td>
-      <td><img src="/img/guilds/2.svg" alt="2"></td>
-   </tr>
-   <tr>
-      <td><img src="/img/guilds/1.svg" alt="1"></td>
+<tr>
+                <td><img src="/img/guilds/21.svg" alt="21"></img></td>
+                <td><img src="/img/guilds/20.svg" alt="20"></img></td>
+                <td><img src="/img/guilds/19.svg" alt="19"></img></td>
+                <td><img src="/img/guilds/18.svg" alt="18"></img></td>
+                <td><img src="/img/guilds/17.svg" alt="17"></img></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/16.svg" alt="16"></img></td>
+                <td><img src="/img/guilds/15.svg" alt="15"></img></td>
+                <td><img src="/img/guilds/14.svg" alt="14"></img></td>
+                <td><img src="/img/guilds/13.svg" alt="13"></img></td>
+                <td><img src="/img/guilds/12.svg" alt="12"></img></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/11.svg" alt="11"></img></td>
+                <td><img src="/img/guilds/10.svg" alt="10"></img></td>
+                <td><img src="/img/guilds/9.svg" alt="9"></img></td>
+                <td><img src="/img/guilds/8.svg" alt="8"></img></td>
+                <td><img src="/img/guilds/7.svg" alt="7"></img></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/6.svg" alt="6"></img></td>
+                <td><img src="/img/guilds/5.svg" alt="5"></img></td>
+                <td><img src="/img/guilds/4.svg" alt="4"></img></td>
+                <td><img src="/img/guilds/3.svg" alt="3"></img></td>
+                <td><img src="/img/guilds/2.svg" alt="2"></img></td>
+            </tr>
+            <tr>
+                <td><img src="/img/guilds/1.svg" alt="1"></img></td>
       <td></td>
       <td></td>
       <td></td>
