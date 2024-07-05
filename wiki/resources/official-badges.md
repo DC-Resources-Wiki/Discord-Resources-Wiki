@@ -296,7 +296,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
    </tr>
    <tr>
       <td>Verified Bot/App</td>
-      <td><img src="/img/special/VerifiedBot.svg"></img><img src="/assets/special/VerifiedApp.svg"></img></td>
+      <td><img src="/img/special/VerifiedBot.svg"></img><img src="/img/special/VerifiedApp.svg"></img></td>
       <td>✅</td>
       <td>Obtained by a verified bot.</td>
    </tr>
