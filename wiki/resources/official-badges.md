@@ -388,7 +388,7 @@ A collection of unique events that happened on Discord.
    </tr>
       <tr>
       <td>The **Spongetext** APP (used to demonstrate Discord's new <a href="https://discord.com/developers/docs/tutorials/developing-a-user-installable-app">User-Installable App's</a> feature) has been given the **Discord Staff** badge, though it is unclear why the bot was given this.</td>
-      <td><img src="/img/fame/spongetextstaff.png"></img></img></td>
+      <td><img src="/img/fame/spongetextstaff.png"></img></td>
    </tr>
    <tr>
       <td>Due to the Moderator Alumni server being closed down Sapphire and GearBot were one of the only APPS to ever obtain the **Moderator Programs Alumni** badge.</td>
