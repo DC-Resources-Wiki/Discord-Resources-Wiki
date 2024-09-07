@@ -29,8 +29,3 @@ __Podziękowania:__ @200987752794292224
 > __Opis:__ Szablon pomagający nowym pracownikom w onboardingu i zrozumieniu praktyk moderacyjnych serwera.   <br/>
 __Link:__ [Wytyczne dotyczące moderowania](https://staff-guidelines.super.site/)   <br/>
 __Podziękowania:__ @366652352125599744
-
-### Przewodnik po cywilnej rozmowie
-> __Opis:__ Rozbudowany, a zarazem dopracowany zestaw zasad społecznościowych, mający na celu zmniejszenie pracy moderatorów.   <br/>
-__Link:__ [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-__Podziękowania:__ @102102717165506560

@@ -20,8 +20,3 @@ __Credit:__ @200987752794292224
 > __Description:__ Un modèle pour aider le nouveau staff à intégrer et à comprendre les pratiques de modération d'un serveur.   <br/>
 __Lien:__ [Lignes directrices sur la modération](https://staff-guidelines.super.site/)   <br/>
 __Credit:__ @366652352125599744
-
-### Un guide de conversation
-> __Description:__ Un ensemble de règles communautaires étendu, mais raffiné, visant à réduire le travail des modérateurs.   <br/>
-__Lien:__ [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-__Credit:__ @102102717165506560

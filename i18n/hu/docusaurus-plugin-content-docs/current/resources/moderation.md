@@ -28,9 +28,3 @@ description: Moderation resources
 > **Description:** A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
 **Link:** [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
 **Credit:** @366652352125599744
-
-## A Guide To Civil Conversation
-
-> **Description:** Extensive, yet polished community ruleset, aimed at reducing the work of moderators.   <br/>
-**Link:** [A Guide To Civil Conversation](https://conversation.guide/)   <br/>
-**Credit:** @102102717165506560
