@@ -182,6 +182,12 @@ description: Discord related tools
 [Server Invite](https://discord.gg/tbzP3XaUF7)   <br/>
 **Credit:** @537875750955778058
 
+## Avatars
+
+> **Description:** A website to download thousands of Discord Pfps. Free!   <br/>
+**Link:**
+[PfpFinder](https://pfpfinder.com)   <br/>
+
 ## Sylveon's Ban Appeal Website (self-host)
 
 > **Description:** Sample ban appeals page with OAuth2 integration.   <br/>
