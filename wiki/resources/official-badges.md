@@ -328,7 +328,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>Only for the Clyde Ai bot.</td>
    </tr>
    <tr>
-      <td>Ai</td>
+      <td>Original Poster</td>
       <td><img src="/img/special/OriginalPoster.svg"></img></td>
       <td>✅</td>
       <td>Given to the original poster of a forum post.</td>
