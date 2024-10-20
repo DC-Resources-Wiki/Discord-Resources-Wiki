@@ -60,11 +60,6 @@ __Tack till:__ @152164749868662784
 __Länk:__ [Slashkommando GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 __Tack till:__ @422820341791064085
 
-### Discord serverkortsgenerator
-> __Beskrivning:__ Generera ett serverkort som du kan kopiera för din epostunderskrift.   <br/>
-__Länk:__ [Discord serverkortsgenerator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Tack till:__ @github:geisterfurz007
-
 ### Discord bugrapporteringsrapportkommandogenerator
 > __Beskrivning:__ Ett snabbt och enkelt verktyg för allting om bugrapportering. Innehåller rapportgenerering, kan/kan inte reproducera, redigering av rapporter, bifogningar och lögörningar, och godkännande, nekande, och återkallning av buggrapporter.   <br/>
 __Länk:__ [Bugrapporteringsrapportkommandogenerator](https://brightskyz.github.io/dbug/index.html)   <br/>

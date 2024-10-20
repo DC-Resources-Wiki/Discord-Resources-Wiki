@@ -85,12 +85,6 @@ Descripción: Herramientas relacionadas con Discord
 **Enlace:** [Interfaz de comandos](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 **Créditos:** @422820341791064085
 
-## Generador de tarjeta de servidor
-
-> **Descripción:** Genera una tarjeta de tu servidor que puede utilizar para la firma de sus correo electrónicos.   <br/>
-**Enlace:** [Generador de tarjeta de servidor](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-**Créditos:** @github:geisterfurz007
-
 ## Generador de comando de reporte
 
 > **Descripción:** Una herramienta fácil y rápida para reportar bugs. Contiene generación de reportes, puedo/no puedo reproducir, editar reportes, adjuntar y desadjuntar, aprobar, rechazar y revocar bugs de Discord. <br/>

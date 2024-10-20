@@ -68,11 +68,6 @@ __Oluşturucu:__ @152164749868662784
 __Bağlantı:__ [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 __Oluşturucu:__ @422820341791064085
 
-### Discord Sunucu Kar Oluşturucu
-> __Tanım:__ E-posta imzalarınız için kopyalayabileceğiniz bir sunucu kartı oluşturun.   <br/>
-__Bağlantı:__ [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Oluşturucu:__ @github:geisterfurz007
-
 ### Discord Bug Bildirme Komutu Oluşturucu
 > __Tanım:__ Her şey hata raporlama için hızlı ve kolay bir araç. Rapor oluşturma, yeniden üretemez/üretemez, raporları düzenleme, ekleme ve ayırma ve hata raporlarını onaylama, reddetme ve iptal etme içerir.   <br/>
 __Bağlantı:__ [Bug Report Command Generator](https://brightskyz.github.io/dbug/index.html)   <br/>

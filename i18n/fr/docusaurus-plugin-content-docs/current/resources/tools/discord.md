@@ -87,12 +87,6 @@ description: Outils relatifs à Discord
 **Lien:** [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 **Crédit:** @422820341791064085
 
-## Discord Server Card Generator
-
-> **Description:** Generez une carte de serveur que vous pouvez copier pour des signatures d'email.   <br/>
-**Lien:** [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-**Crédit:** @github:geisterfurz007
-
 ## Discord Flags
 
 > **Description:** Un document remplis des différents Flags Discord et leurs significations.   <br/>
