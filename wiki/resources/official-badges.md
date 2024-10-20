@@ -168,6 +168,56 @@ Discord badges are epic-looking achievements to make your profile look cool. The
    </tr>
 </table>
 
+# Nitro Subscription Tiers
+
+<table>
+   <tr>
+      <th>Title</th>
+      <th>Badge</th>
+      <th>Earned by</th>
+   </tr>
+   <tr>
+      <td>Bronze (1 Month)</td>
+      <td><img src="/img/subscriptions/bronze.svg"></img></td>
+      <td>Subscribing to Nitro for 1 month.</td>
+   </tr>
+   <tr>
+      <td>Silver (3 Months)</td>
+      <td><img src="/img/subscriptions/silver.svg"></img></td>
+      <td>Subscribing to Nitro for 3 months.</td>
+   </tr>
+   <tr>
+      <td>Gold (6 Months)</td>
+      <td><img src="/img/subscriptions/gold.svg"></img></td>
+      <td>Subscribing to Nitro for 6 months.</td>
+   </tr>
+   <tr>
+      <td>Platinum (12 Months)</td>
+      <td><img src="/img/subscriptions/platinum.svg"></img></td>
+      <td>Subscribing to Nitro for 12 months (1 year).</td>
+   </tr>
+   <tr>
+      <td>Diamond (24 Months)</td>
+      <td><img src="/img/subscriptions/diamond.svg"></img></td>
+      <td>Subscribing to Nitro for 24 months (2 years).</td>
+   </tr>
+   <tr>
+      <td>Emerald (36 Months)</td>
+      <td><img src="/img/subscriptions/emerald.svg"></img></td>
+      <td>Subscribing to Nitro for 36 months (3 years).</td>
+   </tr>
+   <tr>
+      <td>Ruby (60 Months)</td>
+      <td><img src="/img/subscriptions/ruby.svg"></img></td>
+      <td>Subscribing to Nitro for 60 months (5 years).</td>
+   </tr>
+   <tr>
+      <td>Fire (72+ Months)</td>
+      <td><img src="/img/subscriptions/fire.svg"></img></td>
+      <td>Subscribing to Nitro for 72+ months (6+ years).</td>
+   </tr>
+</table>
+
 # Nitro Boost Tiers
 
 <table>
