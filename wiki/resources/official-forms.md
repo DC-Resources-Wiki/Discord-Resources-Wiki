@@ -19,4 +19,5 @@ description: Official forms from Discord.
 ## Discord Trust & Safety
 
 > **Description:** Submit a request to Discord’s Trust & Safety team.   <br/>
-**Link:** [Discord TnS](https://dis.gd/request)
+**Link:** [Discord TnS](https://dis.gd/request)		<br/>
+**Note:** Discord is moving towards app-based reports, the above link applies to appeal requests.
