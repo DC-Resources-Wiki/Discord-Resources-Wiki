@@ -18,17 +18,14 @@ description: Discord programs like Moderation, Partner, HSE and Verification.
 ## Partner Program
 
 > **Description:** As role models to all of the Discord, partnered servers are communities that both our new and veteran users can use as inspiration to create their own communities.   <br/>
-**Link:** [Discord Partner Program](https://dis.gd/partners)
-
-## Hypesquad Events
-
-> **Description:** The place to find information and apply for the HypeSquad Events program.   <br/>
-**Link:** [HypeSquad Events](https://dis.gd/hypesquad)
+**Link:** [Discord Partner Program](https://dis.gd/partners)   <br/>
+**Note:** Discord has discontinued this program permanently, partnered servers get to keep their perks and badge as long as they meet the <a href="https://support.discord.com/hc/en-us/articles/360024871991-Discord-Partnership-Code-of-Conduct">Partner Guidelines.</a>
 
 ## Verification Program
 
 > **Description:** The place to find information and apply for the Verification program.   <br/>
 **Link:** [Verification Program](https://dis.gd/verification)
+**Note:** Discord has paused verification applications indefinitely.
 
 ## Student Hubs
 
