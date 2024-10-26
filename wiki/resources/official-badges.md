@@ -51,21 +51,21 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>HypeSquad Brilliance</td>
       <td><img src="/img/hypesquadbrilliance.svg"></img></td>
       <td>✅</td>
-      <td>Taking the HypeSquad <a href="https://discord.com/hypesquad">Test</a>.</td>
+      <td>Taking the HypeSquad <a href="https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown">Test</a>.</td>
       <td>128 (2^7)</td>
    </tr>
    <tr>
       <td>HypeSquad Bravery</td>
       <td><img src="/img/hypesquadbravery.svg"></img></td>
       <td>✅</td>
-      <td>Taking the HypeSquad <a href="https://discord.com/hypesquad">Test</a>.</td>
+      <td>Taking the HypeSquad <a href="https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown">Test</a>.</td>
       <td>64 (2^6)</td>
    </tr>
    <tr>
       <td>HypeSquad Balance</td>
       <td><img src="/img/hypesquadbalance.svg"></img></td>
       <td>✅</td>
-      <td>Taking the HypeSquad <a href="https://discord.com/hypesquad">Test</a>.</td>
+      <td>Taking the HypeSquad <a href="https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown">Test</a>.</td>
       <td>256 (2^8)</td>
    </tr>
    <tr>
@@ -79,7 +79,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
       <td>Partnered Server Owner</td>
       <td><img src="/img/discordpartner.svg"></img></td>
       <td>❌</td>
-      <td>Owning a server that meets Discords partner <a href="https://support.discord.com/hc/en-us/articles/115001494012">requirements</a> and got accepted for a partnership.</td>
+      <td>Owning a server that meets Discords partner <a href="https://i.imgur.com/QhdDRNC.png">requirements</a> and got accepted for a partnership. (No longer available)</td>
       <td>2 (2^1)</td>
    </tr>
    <tr>
