@@ -9,10 +9,8 @@ description: Fun and useful links and images
 ## Useful Memes/Images
 > <https://tryitands.ee/> | Try it and see video   <br/>
 <https://when.lol/> | When did I ask   <br/>
-<https://didnt-a.sk/> | When did I ask 2.0  <br/>
 <https://dtesters.glitch.me/pin> | Check the pins   <br/>
 <https://dtesters.glitch.me/dev> | No dev client   <br/>
-<https://annoying.name/> | Annoying name   <br/>
 <https://dontuwu.glitch.me/> | Don't uwu  <br/>
 
 
@@ -65,7 +63,6 @@ description: Fun and useful links and images
 <https://thisponydoesnotexist.net/> | This pony does not exist <br/>
 <https://thisfursonadoesnotexist.com/> | This fursona does not exist  <br/>
 <https://theuselessweb.com/> | Take me to a useless website  <br/>
-<https://shitcord.com/> | Shitcord - Parody of [discord.com](https://discord.com) <br/>
 <https://txnor.com/mathchallenge> | math challenge <br />
 <https://oooooooooooooo.ooo/> | oooooooo...  <br/>
 <https://discord.com/humans.txt> | Discord ASCII art  <br/>

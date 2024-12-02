@@ -81,12 +81,6 @@ description: Discord related tools
 **Link:** [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 **Credit:** @422820341791064085
 
-## Discord Flags
-
-> **Description:** A document full with all Discord flags and their meanings.   <br/>
-**Link:** [Discord Flags](https://flags.lewistehminerz.dev/)   <br/>
-**Credit:** @96269247411400704
-
 ## Dragory's Avatar Preview
 
 > **Description:** This is an avatar preview tool used to optimise your avatar between both light and dark themes.   <br/>
@@ -182,12 +176,6 @@ description: Discord related tools
 **Link:** [Sylveon’s Ban Appeal Website](https://github.com/sylveon/discord-ban-appeals)   <br/>
 **Credit:**  @207123748120166400
 
-## Rauf's Embeds Generator
-
-> **Description:** Generate embeds using this site.   <br/>
-**Link:** [Rauf's Embeds Generator](https://embed.rauf.wtf/)   <br/>
-**Credit:** @172557961133162496
-
 ## Webhooks Creator
 
 > **Description:** A site to create webhooks with.   <br/>
@@ -248,9 +236,3 @@ description: Discord related tools
 > **Description:** Create your own role icons for your Discord server. Customize your server's icon, and create your own custom roles. It's free! Try it now!   <br/>
 **Link:** [DiscoTools](https://www.discotools.xyz)   <br/>
 **Credit:** @452475691410128906
-
-## Discord AutoMod Regexes
-
-> **Description:** A collection of regex rules that can be used with Discord's AutoMod filters. This is not affiliated with Discord.   <br/>
-**Link:** [Discord AutoMod Regexes](https://www.discordregex.xyz/)   <br/>
-**Credit:** @461560462991949863

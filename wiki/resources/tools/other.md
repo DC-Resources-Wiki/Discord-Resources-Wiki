@@ -107,11 +107,6 @@ description: Other useful tools
 > **Description:** A list of slang used across the internet.   <br/>
 **Link:** [Internet Slang](https://www.ruf.rice.edu/~kemmer/Words04/usage/slang_internet.html)
 
-## Invited
-
-> **Description:** Watch movies, YouTube, or even listen to music together through a shared virtual browser.   <br/>
-**Link:** [Invited](https://invited.tv/)
-
 ## Obsidian
 
 > **Description:** An advanced note-taking app.  <br/>

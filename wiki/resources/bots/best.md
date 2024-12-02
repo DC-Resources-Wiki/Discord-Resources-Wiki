@@ -16,7 +16,6 @@ description: Discord bot recommendations
 [GitHub](https://github.com/Dragory/ZeppelinBot)   <br/>
 [Compendium](https://github.com/dexbiobot/Zeppelin#zep-by-dex)   <br/>
 [Setup Tool](https://setup-tool.zeppelin.gg)   <br/>
-[Handbook](https://docs.google.com/presentation/d/e/2PACX-1vQTFZW4NiJicngfAv36tLlWG5XjktVyZhljekOkzUyzsktwcNCH_Zm82Dm3r1c7S7vKOArJ6XIO5azC/pub?start=true&loop=false&delayms=60000&slide=id.gc6f9e470d_0_0)   <br/>
 **Credit(s):** @106391128718245888 @1204044025389383757
 
 ### GiselleBot
@@ -90,7 +89,6 @@ description: Discord bot recommendations
 
 > **Description:** Crosslink is a smart link detection and reputation service built to make link filtering convenient for moderators and community managers. With convenience at the forefront, configuration on Discord is made to be as simple as possible for the end user. Our reputation system takes third parties into account as well as our own local domain database to keep your community safe!
 **Link(s):**   <br/>
-[Website](https://panleyent.com/crosslink/)   <br/>
 [Invite CrossLink](https://discord.com/oauth2/authorize?client_id=742711687777484871&permissions=103348038854&scope=bot%20applications.commands)   <br/>
 [Full Docs](https://docs.google.com/document/d/1xWTpTDQo0Asx9eaI1M0Y5JB4cGRVBPUOQH2cIPQg7C8/edit)   <br/>
 **Credit:** @249287049482338305
@@ -138,8 +136,7 @@ description: Discord bot recommendations
 
 > **Description:** A collection of self-hostable, open-source simple Discord bots.  <br/>
 **Link(s):**   <br/>
-[OpenDiscordBots](https://opendiscordbots.com/)  <br/>
-[GitHub Org](https://github.com/OpenDiscordBots)  <br/>
+[GitHub Repo](https://github.com/OpenDiscordBots/site)  <br/>
 **Credit(s):** @297045071457681409 @192060404501839872
 
 ### RTS Bot
@@ -186,9 +183,8 @@ description: Discord bot recommendations
 
 > **Description:** The bot publishes any authorized commits in [Discord Datamining](https://github.com/Discord-Datamining/Discord-Datamining).   <br/>
 **Link(s):**   <br/>
-[GitHub](https://github.com/ItsRauf/dataminev2/#commands)   <br/>
+[GitHub](https://github.com/ItsRauf/datamine)   <br/>
 [Invite Datamining Updates](https://discord.com/oauth2/authorize?client_id=507415798189654016&scope=bot&permissions=190464)   <br/>
-[Datamining Website](https://datamining.otter.university/)  <br/>
 **Credit(s):** @172557961133162496 @562415519454461962
 
 ### Jagrosh's Music Bot (self-host)
@@ -206,7 +202,7 @@ description: Discord bot recommendations
 ### AMA (Ask Me Anything)
 
 > **Description:** Assists with helping host and manage AMA's on Discord.   <br/>
-**Link:** [AMA Bot](https://automoderator.app/ama/)   <br/>
+**Link:** [AMA Bot](https://automoderator.app/bot/ama/)   <br/>
 **Credit(s):** @223703707118731264 @104425482757357568
 
 ### Suggester
@@ -215,12 +211,6 @@ description: Discord bot recommendations
 **Link(s):** [Invite Suggester](https://discord.com/api/oauth2/authorize?client_id=564426594144354315&permissions=805694544&scope=bot%20applications.commands)  <br/>
 [Suggester Docs](https://suggester.js.org/)  <br/>
 **Credit(s):** @327887845270487041 @255834596766253057
-
-### NSFW-Toggle
-
-> **Description:** Pushes the NSFW toggle. Useful for Mobile and especially iOS where it is not possible.  <br/>
-**Link:** [Invite NSFW-Toggle](https://red-panda.red/bots/nsfw-toggle/invite)  <br/>
-**Credit:** @255834596766253057
 
 ### ThreadPersist
 
@@ -280,12 +270,6 @@ description: Discord bot recommendations
 **Link:** [Tunes Ninja Website](https://tunes.ninja/)   <br/>
 **Credit:** @657057112593268756
 
-### StatusBot
-
-> **Description:** A bot that allows tracking of your bot's performance, get notifications when service incidents are detected. <br/>
-**Link:** [StatusBot](https://www.statusbot.gg/) <br/>
-**Credit:** @282565295351136256
-
 ### Forms
 
 > **Description:** Create custom forms for your server and send submissions to a channel of your choice using webhooks. <br/>
@@ -296,14 +280,12 @@ description: Discord bot recommendations
 
 > **Description:** Manages emojis with various API - only commands. <br/>
 **Link(s):**  <br/>
-[Emoji Guardian Website](https://emojiguardian.xyz)  <br/>
 [Invite Emoji Guardian](https://discord.com/oauth2/authorize?client_id=887939311373267005&permissions=1610632320&scope=bot%20applications.commands)  <br/>
 **Credit(s):** @537875750955778058 @305647182198079489
 
 ### Now Live
 > __Description:__ Now Live is a live stream announcing bot that is available to invite to your Discord servers. Currently, it supports Twitch, YouTube, Trovo! <br/>
 __Link:__ [Invite Now Live](https://discord.com/oauth2/authorize?client_id=240729664035880961&scope=bot+applications.commands&permissions=154887744584)  <br/>
-[Now Live Website](https://nowlivebot.com/)  <br/>
 **Credit:** @148336120936005632
 
 ## Fun Bots
