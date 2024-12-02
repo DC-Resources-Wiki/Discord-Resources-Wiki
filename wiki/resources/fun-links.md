@@ -19,6 +19,7 @@ description: Fun and useful links and images
 <https://nohello.net/> | Don't just say hello 2.0 <br/>
 <https://dontasktoask.com/> | Don't ask to ask   <br/>
 <https://xyproblem.info/> | The XY Problem <br/>
+<https://spoonfeeding.info> | Stop wanting to be spoonfed <br/>
 
 
 ## HTTP Codes
