@@ -50,21 +50,21 @@ Discord badges are epic-looking achievements to make your profile look cool. The
    <tr>
       <td>HypeSquad Brilliance</td>
       <td><img src="/img/hypesquadbrilliance.svg"></img></td>
-      <td>✅</td>
+      <td>❌</td>
       <td>Taking the HypeSquad <a href="https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown">Test</a>.</td>
       <td>128 (2^7)</td>
    </tr>
    <tr>
       <td>HypeSquad Bravery</td>
       <td><img src="/img/hypesquadbravery.svg"></img></td>
-      <td>✅</td>
+      <td>❌</td>
       <td>Taking the HypeSquad <a href="https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown">Test</a>.</td>
       <td>64 (2^6)</td>
    </tr>
    <tr>
       <td>HypeSquad Balance</td>
       <td><img src="/img/hypesquadbalance.svg"></img></td>
-      <td>✅</td>
+      <td>❌</td>
       <td>Taking the HypeSquad <a href="https://support.discord.com/hc/en-us/articles/360007553672-HypeSquad-House-Breakdown">Test</a>.</td>
       <td>256 (2^8)</td>
    </tr>
@@ -99,7 +99,7 @@ Discord badges are epic-looking achievements to make your profile look cool. The
    <tr>
       <td>Active Developer</td>
       <td><img src="/img/activedeveloper.svg"></img></td>
-      <td>✅</td>
+      <td>❌</td>
       <td>Own at least 1 active application (app). For your app to be considered active, it will need to have executed any Global Command in the last 30 days.</td>
       <td>4194304 (2^22)</td>
    </tr>
