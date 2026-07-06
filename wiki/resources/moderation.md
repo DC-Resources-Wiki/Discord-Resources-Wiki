@@ -28,3 +28,9 @@ description: Moderation resources
 > **Description:** A template to help new staff with onboarding and understanding the server's moderation practices.   <br/>
 **Link:** [Moderation Guidelines](https://staff-guidelines.super.site/)   <br/>
 **Credit:** @366652352125599744
+
+## The 2026 Systems Architect’s Guide to Real-Time Community Defense
+
+> **Description:** A comprehensive technical playbook for server maintainers on replacing regex filters with $O(1)$ zero-allocation memory ingress, 64-character Head-Tail edge inference, and target-aware de-escalation pipelines. <br/>
+> **Link:** [Intent Moderation Playbook](https://github.com/aegitox/aegitox/blob/main/INTENT_MODERATION_PLAYBOOK.md) <br/>
+> **Credit:** anton.po (Aegitox Engineering Team)

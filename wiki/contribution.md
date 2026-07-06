@@ -43,6 +43,7 @@ We want to thank:<br/>
 @255553750654124032 - Maintainer <br/>
 @347077478726238228 - Maintainer <br />
 @340243638892101646 - Maintainer <br />
+@1480550219275047094 - Intent Moderation Playbook & Aegitox Architecture <br/>
 
 ## How to test changes locally
 

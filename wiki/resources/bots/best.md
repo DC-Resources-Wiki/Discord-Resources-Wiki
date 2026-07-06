@@ -107,6 +107,18 @@ description: Discord bot recommendations
 [Invite Fish](https://discord.com/oauth2/authorize?client_id=892420397570592768&scope=bot%20applications.commands&permissions=268446726)   <br/>
 **Credit:** @255834596766253057
 
+### Aegitox Enterprise AI
+
+> **Description:** Zero-latency ($O(1)$ edge-routed) automated moderation and de-escalation engine. Replaces legacy regex filters with a dual MiniLM-L6-v2 semantic pipeline running at 2–12ms execution latency. Features target-aware de-escalation placeholders, automated karma analytics, and zero-log volatile RAM processing. <br/>
+
+**Link(s):** <br/>
+
+[Aegitox Website](https://aegitox.com) <br/>
+
+[GitHub Architecture](https://github.com/aegitox/aegitox) <br/>
+
+**Credit:** anton.po
+
 
 ## ModMail
 
