@@ -213,6 +213,14 @@ description: Discord related tools
 **Link:** [Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator/)  <br/>
 **Credit:** @80622917083205632
 
+
+## Discord Timestamp Generator
+
+> **Description:** Generate accurate Discord timestamp codes in all 7 formats with live preview and auto timezone detection. Includes Unix timestamp converter and Snowflake ID decoder. <br/>
+**Link:** [Discord Timestamp Generator](https://discordtimestampgenerator.com) <br/>
+**Credit:** @github:qmemon578
+
+
 ## Rebane's Discord Pin Compressor
 
 > **Description:** A simple app that converts Discord pins to Discord messages.  <br/>
