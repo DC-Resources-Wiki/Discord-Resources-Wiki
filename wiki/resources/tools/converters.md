@@ -66,7 +66,7 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 > **Description:** Convert file types to others.   <br/>
 **Link:** [File Converter](https://github.com/Tichau/FileConverter)   <br/>
-**Credit:** @Tichau
+**Credit:** @github:Tichau
 
 ### Color Replacer
 
@@ -83,17 +83,6 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** View SVG files.   <br/>
 **Link:** [SVG Viewer](https://www.svgviewer.dev/)
 
-### YouTube Downloader
-
-> **Description:** Download a YouTube video as a file using its URL (either audio only or video). <br/>
-**Link:** [YouTube Downloader](http://youtube.tpcstld.me/) <br/>
-**Credit:** @141065743197405184
-
-### Lottie Image Resizer
-
-> **Description:** Lottie image resize so you can get your Lottie files ≤320px.   <br/>
-**Link:** [Lottie Image Resizer](https://lottieresizer.tech/)
-
 ### .gif to .apng
 
 > **Description:** Converts .gif files to .apng files.   <br/>
@@ -109,10 +98,22 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** Upload an image and get a specific hex code for a color in the picture.   <br/>
 **Link:** [Image Color Picker](https://imagecolorpicker.com/)
 
+### Video Compressor
+
+> **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
+**Link:** [Video Compressor](https://8mb.video/)
+
+## Background Removers
+
+### Remove Background
+
+> **Description:** Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. <br/>
+**Link:** [Remove Background](https://www.remove.bg/)
+
 ### Removebg
 
- > **Description:** Remove any background from an image.   <br/>
- **Link:** [Removebg](https://www.remove.bg/upload)
+> **Description:** Remove any background from an image.   <br/>
+**Link:** [Removebg](https://www.remove.bg/upload)
 
 ### Erase.bg
 
@@ -123,13 +124,3 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 
 > **Description:** Remove any objects, people, text, or defects from your pictures.   <br/>
 **Link:** [Cleanup.pictures](https://cleanup.pictures/)
-
-### Video Compressor
-
-> **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
-**Link:** [Video Compressor](https://8mb.video/)
-
-> # Remove Background
-
-> **Description:** Remove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic. <br/>
-**Link:** [Remove Background](https://www.remove.bg/)

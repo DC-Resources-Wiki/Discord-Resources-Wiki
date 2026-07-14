@@ -17,7 +17,7 @@ Bu proje birden fazla el aldı ve bu projede bize yardımcı olan bu katkıda bu
 size teşekkür etmek istiyoruz:<br/>
 
 @795977947558182954 - Wiki Bakımcısı <br/>
-@885165099847929887 - <https://dis.wiki/> Yönlendirme Sahibi <br/>
+@885165099847929887 - https://dis.wiki/ Yönlendirme Sahibi <br/>
 @856780995629154305 - Web Sitesi Sorumlusu <br/>
 @347727875266576395 - Wiki Geliştiricisi <br/>
 @391660873409888277 - Wiki Düzelticisi <br/>
@@ -34,7 +34,7 @@ size teşekkür etmek istiyoruz:<br/>
 @102102717165506560 - Büyüme Danışmanlığı / Kaynak Araştırmacısı<br/>
 @727647625255321731 - Türkçe Çevirmen<br/>
 @755792681313108018 - *Bu fikre sahiptim ve yukarıdakilerin hepsini yaptım*  <br/>
-@480495309491798037 - <http://discord.wiki/> Yönlendirme Sahibi <br/>
+@480495309491798037 - http://discord.wiki/ Yönlendirme Sahibi <br/>
 @421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Yapıcı
 
 ## Değişiklikler yerel olarak nasıl test edilir?

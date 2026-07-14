@@ -9,12 +9,8 @@ function blogAuthorWidgetPlugin() {
 	);
 
 	return async function transformer(markdownAST) {
-		markdownAST.children.splice(0, 0, {
-			type: 'import',
-			value: "import BlogAuthorWidget from '@site/src/components/BlogAuthorWidget';",
-		});
-
 		const toLoad = [];
+		const attempted = new Set();
 
 		function replaceOrCollect(match) {
 			const userIds = match.substring(9).split(',');
@@ -23,15 +19,25 @@ function blogAuthorWidgetPlugin() {
 			for (let userId of userIds) {
 				if (!Object.prototype.hasOwnProperty.call(users, userId)) {
 					ready = false;
-					toLoad.push(userId);
+					if (!attempted.has(userId)) {
+						toLoad.push(userId);
+					}
 				}
 			}
 
 			if (ready) {
 				const loadedUsers = userIds.map((userId) => users[userId]);
 				return {
-					type: 'jsx',
-					value: `<BlogAuthorWidget data={${JSON.stringify(loadedUsers)}}/>`,
+					type: 'mdxJsxTextElement',
+					name: 'BlogAuthorWidget',
+					attributes: [
+						{
+							type: 'mdxJsxAttribute',
+							name: 'data',
+							value: JSON.stringify(loadedUsers),
+						},
+					],
+					children: [],
 				};
 			} else {
 				return {
@@ -45,6 +51,7 @@ function blogAuthorWidgetPlugin() {
 
 		while (toLoad.length) {
 			for (let userId of toLoad) {
+				attempted.add(userId);
 				await fetchUserByIdentifier(userId);
 			}
 

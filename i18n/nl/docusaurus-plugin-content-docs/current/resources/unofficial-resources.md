@@ -53,7 +53,7 @@ description: Onofficiële hulpbronnen voor discord.
 
 ## Discord Protocol Links
 > **Beschrijving:** Lijst met alle discord-protocolkoppelingen.   <br/>
-*Note: Discord protocol links can be used in buttons! Bekijk [deze discussie](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) voor meer info. Protocolkoppelingen werken niet op Android, niet zeker over iOS. (alleen <tel://number> werkt op iOS)*   <br/>
+*Note: Discord protocol links can be used in buttons! Bekijk [deze discussie](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) voor meer info. Protocolkoppelingen werken niet op Android, niet zeker over iOS. (alleen tel://number werkt op iOS)*   <br/>
 **Link:** [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 **Credit(s):** @github:ghostrider-05
 

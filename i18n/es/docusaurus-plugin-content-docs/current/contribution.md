@@ -21,7 +21,7 @@ Tambien puede unise al [Servidor Oficial del Proyecto](https://discord.gg/yxbqz9
 ¡Este proyecto ha necesitado más de un par de manos y estamos orgullosos de tener este equipo de contribuyentes que nos han ayudado con este proyecto!<br/>
 Queremos agradecer a:<br/>
 @795977947558182954 - Mantenedor de la Wiki <br/>
-@885165099847929887 - <https://dis.wiki/> Propietario de la Redirección <br/>
+@885165099847929887 - https://dis.wiki/ Propietario de la Redirección <br/>
 @856780995629154305 - Mantenedor del Sitio Web <br/>
 @347727875266576395 - Arquitecto de la Wiki <br/>
 @391660873409888277 - Fijador de la Wiki <br/>
@@ -37,7 +37,7 @@ Queremos agradecer a:<br/>
 @386861188891279362 - Arquitecto de la Pagina Web / Organizador de Documentación<br/>
 @102102717165506560 - Consultor de Crecimiento / Curador de Recursos<br/>
 @755792681313108018 - *He tenido la idea y he hecho todo lo de arriba*  <br/>
-@480495309491798037 - <http://discord.wiki/> Propietario de la Redirección <br/>
+@480495309491798037 - http://discord.wiki/ Propietario de la Redirección <br/>
 @421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Creador <br/>
 ## Equipo de Traducción al Español
 @658113072283516939 (Líder)

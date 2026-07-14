@@ -53,7 +53,7 @@ __Podziękowania:__ @113156185389092864
 
 ## Linki protokołów Discorda
 > __Opis:__ Lista wszystkich łączy protokołu Discorda.   <br/>
-*Uwaga: Linki protokołu Discord mogą być używane w przyciskach! Sprawdź [tę dyskusję](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) aby uzyskać więcej informacji. Łącza protokołów nie działają na Androidzie, nie jestem pewien co do iOS. (tylko <tel://numer> działa na iOS)*   <br/>
+*Uwaga: Linki protokołu Discord mogą być używane w przyciskach! Sprawdź [tę dyskusję](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) aby uzyskać więcej informacji. Łącza protokołów nie działają na Androidzie, nie jestem pewien co do iOS. (tylko tel://numer działa na iOS)*   <br/>
 __Link:__ [Linki protokołów Discorda](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 __Podziękowania:__ @github:ghostrider-05
 
