@@ -60,11 +60,6 @@ __Podziękowania:__ @152164749868662784
 __Link:__ [GUI komend slash](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 __Credit:__ @422820341791064085
 
-### Generator Karty Serwera Discord
-> __Description:__ Wygeneruj kartę serwera, którą możesz skopiować do swoich podpisaów na emailu.   <br/>
-__Link:__ [Generator Karty Serwera Discord](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-__Credit:__ @github:geisterfurz007
-
 ### Flagi Discorda
 > __Description:__ Dokument ze wszystkimi flagami użytkownika i ich znaczenie.   <br/>
 __Link:__ [Flagi Discorda](https://flags.lewistehminerz.dev/)   <br/>

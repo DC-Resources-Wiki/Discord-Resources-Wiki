@@ -6,12 +6,6 @@ description: Programming related tools
 
 # Programming Related
 
-## Autocode
-
-> **Description:** Autocode turns JavaScript (Node.js) functions into scalable web services in an instant, with no configuration required.   <br/>
-**Link:** [Autocode](https://autocode.com/)  <br/>
-**Credit:** @746460957651501196
-
 ## Stack Overflow
 
 > **Description:** A place to find solutions and discuss coding related problems.  <br/>

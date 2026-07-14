@@ -87,12 +87,6 @@ description: Discord gerelateerde gereedschappen
 **Link:** [Slash Commands GUI](https://slash-commands-gui.androz2091.fr/settings)  <br/>
 **Credit:** @422820341791064085
 
-## Discord Server Card Generator
-
-> **Beschrijving:** Genereer een serverkaart die je kunt kopiëren voor je email handtekeningen.   <br/>
-**Link:** [Discord Server Card Generator](https://geisterfurz007.github.io/discord-server-card-generator/)   <br/>
-**Credit:** @github:geisterfurz007
-
 ## Discord Flags
 
 > **Beschrijving:** Een docuement vol met alle Discord flags en betekenissen.   <br/>

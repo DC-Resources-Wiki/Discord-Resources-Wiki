@@ -6,11 +6,6 @@ description: Phishing and Security tools
 
 # Phishing Related
 
-## Discord Nitro Scams
-
-> **Description:** This **safe and secure** website (*not a scam*) compares real Discord Nitro gifts to scams. Beware!   <br/>
-**Link:** [Discord Nitro Information](https://dicsord.gq/)
-
 ## VirusTotal
 
 > **Description:** VirusTotal analyses suspicious files and URLs to detect types of malware.   <br/>
@@ -48,24 +43,19 @@ description: Phishing and Security tools
 [URL Scan](https://urlscan.io/)  <br/>
 [ThreatMiner](https://www.threatminer.org/)  <br/>
 [McAfee URL Checker](https://www.trustedsource.org/)  <br/>
-[IP Logger URL Checker](https://iplogger.com/url-checker)
 
 ## Phishing APIs
 
 > **Description:** These are APIs and tools to handle phishing attempts.   <br/>
 **Link(s):** <br/>
 [Got Phish](http://gotphish.com/)   <br/>
-[Hyperphish](https://api.hyperphish.com/docs) (credit: @297045071457681409)   <br/>
 [Phish Report](https://phish.report/)   <br/>
 [SinkingYachts](https://phish.sinking.yachts/docs) (credit: @204414611578028034)  <br/>
 [Anti - Fish API](https://anti-fish.bitflow.dev/) (credit: @218508002255306752)   <br/>
-[Spoopy Detector](https://spoopy.oceanlord.me/) (credit: @240973228632178689)   <br/>
 [Phish Tank](https://phishtank.org/)   <br/>
 [Phish.gg](https://phish.gg/)  <br/>
-[Blacklisted Domains](https://api.hyperphish.com/gimme-domains) <br/>
 [Malware & URL Scanner](https://chrome.google.com/webstore/detail/malware-url-scanner/ianpniapgjchiheejeipopldaanbjicd) <br/>
 [ipqualityscore](https://www.ipqualityscore.com/threat-feeds/malicious-url-scanner)  <br/>
-[Uplink](https://uplink.digitaldimensions.cc) (credit: @641795527444529152)  <br/>
 [Walshy's API](https://bad-domains.walshy.dev/)
 
 ## Phisherman
