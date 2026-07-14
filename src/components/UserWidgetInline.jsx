@@ -4,31 +4,32 @@ import styles from '../css/UserWidgetInline.module.css';
 import {useColorMode} from '@docusaurus/theme-common';
 
 export default function UserWidgetInline({data}) {
+	const resolvedData = typeof data === 'string' ? JSON.parse(data) : data;
 	const {isDarkTheme} = useColorMode();
 	function userName() {
-		if (data.type === 'discord') {
+		if (resolvedData.type === 'discord') {
 			return (
 				<>
 					<span className={styles.userUsername} style={{color: isDarkTheme ? '#fff' : '#000'}}>
-						{data.name}
+						{resolvedData.name}
 					</span>
-					<span className={styles.userDiscriminator}>{data.discriminator && !['0', '0000'].includes(data.discriminator) ? '#' + data.discriminator : ''}</span>
+					<span className={styles.userDiscriminator}>{resolvedData.discriminator && !['0', '0000'].includes(resolvedData.discriminator) ? '#' + resolvedData.discriminator : ''}</span>
 				</>
 			);
 		} else {
 			return (
 				<span className={styles.userUsername} style={{color: isDarkTheme ? '#fff' : '#000'}}>
-					{data.name}
+					{resolvedData.name}
 				</span>
 			);
 		}
 	}
 
 	function userIdentifier() {
-		if (data.type === 'discord') {
-			return data.id;
+		if (resolvedData.type === 'discord') {
+			return resolvedData.id;
 		} else {
-			return data.username;
+			return resolvedData.username;
 		}
 	}
 
@@ -37,7 +38,7 @@ export default function UserWidgetInline({data}) {
 			title={
 				<span>
 					<span style={{paddingRight: '0.3rem'}}>{userIdentifier()}</span>
-					<a href={data.url ?? ''} style={{color: 'inherit'}} target='_blank' rel='noreferrer'>
+					<a href={resolvedData.url ?? ''} style={{color: 'inherit'}} target='_blank' rel='noreferrer'>
 						<svg
 							width='13.5'
 							height='13.5'
@@ -57,7 +58,7 @@ export default function UserWidgetInline({data}) {
 				<span
 					className={styles.widget}
 					style={{backgroundColor: isDarkTheme ? '#2f3136' : '#dadae0'}}>
-					<img src={data.avatarUrl} alt='' className={styles.userAvatar} />
+					<img src={resolvedData.avatarUrl} alt='' className={styles.userAvatar} />
 					<span className={styles.userTag}>{userName()}</span>
 				</span>
 			</span>

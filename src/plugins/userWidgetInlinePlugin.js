@@ -6,23 +6,29 @@ function userWidgetInlinePlugin() {
 	const identifierRegex = new RegExp(`@${userIdentifierRegex}`, 'g');
 
 	return async function transformer(markdownAST) {
-		markdownAST.children.splice(0, 0, {
-			type: 'import',
-			value: "import UserWidgetInline from '@site/src/components/UserWidgetInline';",
-		});
-
 		const toLoad = [];
+		const attempted = new Set();
 
 		function replaceOrCollect(match) {
 			const userId = match.substring(1);
 			if (Object.prototype.hasOwnProperty.call(users, userId)) {
 				let loadedUser = users[userId];
 				return {
-					type: 'jsx',
-					value: `<UserWidgetInline data={${JSON.stringify(loadedUser)}}/>`,
+					type: 'mdxJsxTextElement',
+					name: 'UserWidgetInline',
+					attributes: [
+						{
+							type: 'mdxJsxAttribute',
+							name: 'data',
+							value: JSON.stringify(loadedUser),
+						},
+					],
+					children: [],
 				};
 			} else {
-				toLoad.push(userId);
+				if (!attempted.has(userId)) {
+					toLoad.push(userId);
+				}
 				return {
 					type: 'text',
 					value: `@${userId}`,
@@ -35,6 +41,7 @@ function userWidgetInlinePlugin() {
 
 		while (toLoad.length) {
 			for (let userId of toLoad) {
+				attempted.add(userId);
 				await fetchUserByIdentifier(userId);
 			}
 			toLoad.splice(0, toLoad.length);

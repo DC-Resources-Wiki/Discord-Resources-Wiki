@@ -76,7 +76,7 @@ description: Discord bot recommendations
 
 ### Beemo Helper (addition)
 
-> **Description:** Beemo Helper is designed to help Beemo (<https://beemo.gg/>) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans.   <br/>
+> **Description:** Beemo Helper is designed to help Beemo [https://beemo.gg/](https://beemo.gg/) deal with user bot raids. Once Beemo detects a raid, Beemo Helper will start banning users from Beemo Logs from the bottom up, effectively doubling the speed of bans.   <br/>
 **Link(s):**   <br/>
 [Invite](https://redirects.polar.blue/beemohelper)   <br/>
 **Credit:** @619284841187246090

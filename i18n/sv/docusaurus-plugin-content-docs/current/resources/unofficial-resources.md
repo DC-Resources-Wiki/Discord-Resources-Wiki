@@ -53,7 +53,7 @@ __Kredit:__ @113156185389092864
 
 ## Länkar till Discord-protokollet
 > __Beskrivning:__ Förteckning över alla diskordprotokolllänkar.   <br/>
-*Obs: Discord-protokolllänkar kan användas i knappar! Kolla in [denna diskussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) för mer information. Protokolllänkar fungerar inte på Android, men är inte säker på iOS. (endast <tel://number> fungerar på iOS)*   <br/>
+*Obs: Discord-protokolllänkar kan användas i knappar! Kolla in [denna diskussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) för mer information. Protokolllänkar fungerar inte på Android, men är inte säker på iOS. (endast tel://number fungerar på iOS)*   <br/>
 __Länk:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 __Kredit:__ @github:ghostrider-05
 

@@ -53,7 +53,7 @@ __Credit:__ @113156185389092864
 
 ## Liens vers le protocole Discord
 > __Description:__ Liste de tous les liens du protocole de discord.   <br/>
-*Note: Les liens du protocole Discord peuvent être utilisés dans les boutons ! Consultez [cette discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) pour plus d'informations. Les liens du protocole ne fonctionnent pas sur Android, pas sûr pour iOS. (seul <tel://numéro> fonctionne sur iOS)*   <br/>
+*Note: Les liens du protocole Discord peuvent être utilisés dans les boutons ! Consultez [cette discussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) pour plus d'informations. Les liens du protocole ne fonctionnent pas sur Android, pas sûr pour iOS. (seul tel://numéro fonctionne sur iOS)*   <br/>
 __Lien:__ [Liens vers le protocole Discord](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 __Credit:__ @github:ghostrider-05
 

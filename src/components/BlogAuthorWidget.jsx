@@ -1,6 +1,7 @@
 import React from 'react';
 
 export default function BlogAuthorWidget({data}) {
+	const resolvedData = typeof data === 'string' ? JSON.parse(data) : data;
 	function authorName(user) {
 		if (user.type === 'discord') {
 			return (
@@ -21,7 +22,7 @@ export default function BlogAuthorWidget({data}) {
 	return (
 		<div style={{marginTop: '-1rem', marginBottom: '-0.5rem'}}>
 			<div className='row margin-top--md margin-bottom--sm'>
-				{data.map((user) => (
+				{resolvedData.map((user) => (
 					<a
 						href={user.url}
 						target='_blank'
