@@ -72,7 +72,7 @@ Vortex es un bot diseñado para mantener tu servidor seguro y tu equipo de perso
 
 ### Beemo Helper (adición)
 
-> **Descripción:** Beemo Helper está diseñado para ayudar a Beemo (<https://beemo.gg/>) a lidiar con las incursiones de los bots de los usuarios. Una vez que Beemo detecta una incursión, Beemo Helper comenzará a prohibir a los usuarios de los registros de Beemo desde abajo hacia arriba, duplicando efectivamente la velocidad de las prohibiciones.   <br/>
+> **Descripción:** Beemo Helper está diseñado para ayudar a Beemo (https://beemo.gg/) a lidiar con las incursiones de los bots de los usuarios. Una vez que Beemo detecta una incursión, Beemo Helper comenzará a prohibir a los usuarios de los registros de Beemo desde abajo hacia arriba, duplicando efectivamente la velocidad de las prohibiciones.   <br/>
 **Enlace:**   <br/>
 [Invita a Beemo Helper](https://redirects.polar.blue/beemohelper)   <br/>
 **Créditos:** @619284841187246090

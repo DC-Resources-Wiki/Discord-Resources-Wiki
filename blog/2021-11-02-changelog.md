@@ -11,7 +11,7 @@ _**MASSIVE CHANGES!**_
 A lot of things changed the last few days, and today we are super excited to introduce...
 
 **The Discord Resources Wiki Website!**  
-**<https://discordresources.com/>**
+**[https://discordresources.com/](https://discordresources.com/)**
 
 The website is synced and managed through the Wiki GitHub, meaning that any changes made on GitHub will automatically update the website! Due to the awesome release of the new website, the GitHub native Wiki will be closed down.
 The link to the website will be in the repo's readme, so you can still refer people to the repo without any problem whatsoever! The repo still exists, and all stars and shares are appreciated.

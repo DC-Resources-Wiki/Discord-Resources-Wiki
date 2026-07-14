@@ -21,7 +21,7 @@ Du darfst auch dem [Offiziellen Projekt Server](https://discord.gg/yxbqz9pNxS) b
 Für dieses Projekt waren mehr als nur ein paar Hände nötig, und wir sind stolz darauf, dieses Team von Mitarbeitern zu haben, die uns bei diesem Projekt geholfen haben!<br/>
 Ein Dank geht an:<br/>
 @795977947558182954 - Website-Betreuer <br/>
-@885165099847929887 - <https://dis.wiki/> Weiterleit-links Besitzer <br/>
+@885165099847929887 - https://dis.wiki/ Weiterleit-links Besitzer <br/>
 @856780995629154305 - Website-Betreuer <br/>
 @347727875266576395 - Wiki Architekt <br/>
 @391660873409888277 - Wiki fixer <br/>
@@ -39,7 +39,7 @@ Ein Dank geht an:<br/>
 @280094303429197844 - Übersetzung ins Deutsche<br/>
 @605760781664911380 - Übersetzung ins Deutsche<br/>
 @755792681313108018 - *Ich hatte diese Idee und habe alle oben genannten Dinge getan*<br/>
-@480495309491798037 - <http://discord.wiki/> Weiterleit-links Besitzer <br/>
+@480495309491798037 - http://discord.wiki/ Weiterleit-links Besitzer <br/>
 @421991668556759042 - [PreMid Presence](https://premid.app/store/presences/Discord%20Resources) Gründer / Übersetzung ins Deutsche<br/>
 
 ## Wie man Änderungen lokal testet

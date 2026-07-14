@@ -34,7 +34,7 @@ We willen de volgende personen graag bedanken:<br/>
 @386861188891279362 - Website Architect / Documentatie Organisator<br/>
 @102102717165506560 - Groeiadvies en Hulpbron curator<br/>
 @755792681313108018 - *Ik had dit idee en heb al het bovenstaande gedaan*<br/>
-@480495309491798037 - <http://discord.wiki/> Doorstuur eigenaar <br/>
+@480495309491798037 - http://discord.wiki/ Doorstuur eigenaar <br/>
 @421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker <br/>
 @427146305651998721 - Onderhouder <br/>
 @209609796704403456 - Nederlandse vertaling <br/>

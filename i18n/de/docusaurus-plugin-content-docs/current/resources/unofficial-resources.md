@@ -75,7 +75,7 @@ description: Inoffizielle Ressourcen für Discord.
 ## Discord Protocol Links
 
 > **Beschreibung:** Liste aller Discord-Protokoll-Links.   <br/>
-*Notiz: Discord-Protokoll-Links können in Schaltflächen verwendet werden! Schau dir [diese Diskussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) für mehr Information an. Protokoll-Links funktionieren nicht auf Android, bei iOS unbekannt. (nur <tel://number> funktioniert auf iOS)*   <br/>
+*Notiz: Discord-Protokoll-Links können in Schaltflächen verwendet werden! Schau dir [diese Diskussion](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) für mehr Information an. Protokoll-Links funktionieren nicht auf Android, bei iOS unbekannt. (nur tel://number funktioniert auf iOS)*   <br/>
 **Link:** [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 **Credit:** @github:ghostrider-05
 

@@ -14,7 +14,7 @@ description: Official links from Discord.
 ## How to Report
 
 > **Description:** A guide on how to properly report issues to Discord’s Trust and Safety team.   <br/>
-**Link:**  [How To Report](https://dis.gd/howtoreport) | [DMA Article](https://dis.gd/dma104)
+**Link:**  [How To Report](https://dis.gd/howtoreport)
 
 ## How to get user IDs
 
@@ -59,7 +59,6 @@ description: Official links from Discord.
 > **Description:** Discord’s branding assets and guidelines.   <br/>
 **Link(s):**  <br/>
 [Discord Branding](https://discord.com/branding)  <br/>
-[Discord Dribbble Page](https://discord.design/)
 
 ## Discord Nitro
 
@@ -89,14 +88,7 @@ description: Official links from Discord.
 ## Latest Transparency Report
 
 > **Description:** The most recent update on the security team’s actions and terminations.   <br/>
-**Link:** [Latest Transparency Report](https://discord.com/blog/discord-transparency-report-q1-2022)
-
-## Discord’s (new) Media Kit
-
-> **Description:** Discord’s official assets.   <br/>
-**Link:** <br/>
-[Discord (New) Media Kit - Direct Download](https://www.dropbox.com/sh/nabhhaq7kt59exr/AAB7U3f2pW-Jmvdul0yy7o-ia?dl=1)  <br/>
-[Discord Branding Page](https://discord.com/branding)
+**Link:** [Latest Transparency Report](https://discord.com/safety-transparency-reports/2023-q4)
 
 ## Discord Developer Help Center
 

@@ -1,0 +1,32 @@
+---
+title: Docusaurus v3 and changes around the code
+description: Announcing Docusaurus v3 and changes to the code
+tags: [changelog]
+---
+
+@authors/135877336804360194
+**Docusaurus v3**
+
+Hello. Long time no see.
+
+Docusaurus v3 has come out and this website has also updated to it.
+
+:::danger Error messages
+
+> Unexpected character `@` (U+0040) in name, expected a name character such as letters, digits, `$`, or `_`; whitespace before attributes; or the end of the tag (note: to create a link in MDX, use `[text](url)`)
+
+> Unexpected character `/` (U+002F) before local name, expected a character that can start a name, such as a letter, `$`, or `_` (note: to create a link in MDX, use `[text](url)`)
+
+:::
+
+:::tip How to prepare
+
+Use regular Markdown links, or remove the `<` and `>`. MDX and GFM are able to autolink literals already.
+
+{/* prettier-ignore */}
+```md title="example.md"
+http://google.com
+[http://google.com](http://google.com)
+```
+
+:::

@@ -53,7 +53,7 @@ __Oluşturucu:__ @113156185389092864
 
 ## Discord Protokol Bağlantıları
 > __Tanım:__ Tüm anlaşmazlık protokolü bağlantılarının listesi.   <br/>
-*Not: Discord protokol bağlantıları butonlarda kullanılabilir! [bu tartışmaya göz atın](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) daha fazla bilgi için. Protokol bağlantıları Android'de çalışmıyor, iOS'tan emin değilim. (only <tel://number> works on iOS)*   <br/>
+*Not: Discord protokol bağlantıları butonlarda kullanılabilir! [bu tartışmaya göz atın](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) daha fazla bilgi için. Protokol bağlantıları Android'de çalışmıyor, iOS'tan emin değilim. (only tel://number works on iOS)*   <br/>
 __Bağlantı:__ [Discord Protocol Links](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 __Oluşturucu:__ @github:ghostrider-05
 

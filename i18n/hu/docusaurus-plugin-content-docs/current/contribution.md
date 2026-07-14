@@ -21,7 +21,7 @@ You can also join the [Official Project Guild](https://discord.gg/yxbqz9pNxS) to
 This project took more than one set of hands, and we are proud to have this team of contributors who helped us with this project!<br/>
 We want to thank:<br/>
 @795977947558182954 - Wiki Maintainer <br/>
-@885165099847929887 - <https://dis.wiki/> Redirect Owner <br/>
+@885165099847929887 - https://dis.wiki/ Redirect Owner <br/>
 @856780995629154305 - Website Maintainer <br/>
 @347727875266576395 - Wiki Architect <br/>
 @391660873409888277 - Wiki fixer <br/>
@@ -37,7 +37,7 @@ We want to thank:<br/>
 @386861188891279362 - Website Architect / Documentation Organizer<br/>
 @102102717165506560 - Growth Consulting / Resource Curator<br/>
 @755792681313108018 - *I had this idea and did all of the above*  <br/>
-@480495309491798037 - <http://discord.wiki/> Redirect Owner <br/>
+@480495309491798037 - http://discord.wiki/ Redirect Owner <br/>
 @421991668556759042 - [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) Maker <br/>
 @427146305651998721 - Maintainer <br/>
 

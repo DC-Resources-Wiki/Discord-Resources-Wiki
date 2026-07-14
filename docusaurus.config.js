@@ -18,7 +18,11 @@ const config = {
 	url: 'https://discordresources.com',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
-	onBrokenMarkdownLinks: 'warn',
+	markdown: {
+		hooks: {
+			onBrokenMarkdownLinks: 'warn',
+		},
+	},
 	favicon: 'img/favicon.ico',
 	organizationName: 'Discord-Resources-Wiki',
 	projectName: 'Discord-Resources-Wiki',
@@ -42,7 +46,7 @@ const config = {
 				},
 				blog: {
 					path: 'blog',
-					routeBasePath: '/blog/',
+					routeBasePath: 'blog',
 					showReadingTime: true,
 					remarkPlugins: [
 						linebreakPlugins,

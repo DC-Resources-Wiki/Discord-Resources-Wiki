@@ -34,10 +34,11 @@ description: Unofficial servers related to Discord
 ## Displace
 
 > **Description:** The biggest Discord meta community. Get all your Discord news, help, and resources for your community.   <br/>
-**Link(s):** [Displace server](https://discord.gg/datplace)   <br/>
-**Credit:** The Displace team (owned by @152177634179022848)
+**Link(s):** [Displace server](https://discord.gg/3hygmFYcYd)   <br/>
+**Credit:** The Displace team (owned by @152177634179022848)   <br/>
+**Note:** The server has been [soft-shut down](https://discord.com/channels/641574644578648068/689591765958787073/1225187852342530190) as of April 3, 2024.
 
-@gg/datplace
+@gg/3hygmFYcYd
 
 ## Community Architects
 

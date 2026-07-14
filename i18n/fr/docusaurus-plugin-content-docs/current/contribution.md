@@ -21,7 +21,7 @@ Pour contribuez, vous pouvez PR ce wiki ou envoyez un mp à  @755792681313108018
 Ce projet a requis plus que quelques paires de mains, et nous sommes fiers d'avoir cette équipe de contributeurs pour nous assister avec ce projet.<br/>
 Nous voudrions remercier:<br/>
 @795977947558182954 - Mainteneur du Wiki <br/>
-@885165099847929887 - Propriétaire du domaine <https://dis.wiki/> <br/>
+@885165099847929887 - Propriétaire du domaine https://dis.wiki/ <br/>
 @856780995629154305 - Mainteneur du Site <br/>
 @347727875266576395 - Architecte du Wiki <br/>
 @391660873409888277 - Réparateur du Wiki <br/>
@@ -37,7 +37,7 @@ Nous voudrions remercier:<br/>
 @386861188891279362 - Architecte du Wiki / Organisateur de la Documentation <br/>
 @102102717165506560 - Conseil en croissance / Curateur de ressources <br/>
 @755792681313108018 - *J'ai eu cette idée et fait tout ça*  <br/>
-@480495309491798037 - Propriétaire du domaine <http://discord.wiki/> <br/>
+@480495309491798037 - Propriétaire du domaine http://discord.wiki/ <br/>
 @421991668556759042 - Créateur de la [PreMiD Presence](https://premid.app/store/presences/Discord%20Resources) <br/>
 @255553750654124032 - Mainteneur / Traducteur français <br/>
 @242843345196548097 - Helpeur / Traducteur français et anglais <br/>

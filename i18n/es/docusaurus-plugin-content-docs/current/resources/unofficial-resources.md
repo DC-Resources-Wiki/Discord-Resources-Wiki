@@ -77,7 +77,7 @@ description: Recursos no oficiales sobre Discord.
 ## Enlaces de protocolo de Discord
 
 > **Descripción:** Lista de todos los enlaces de protocolos de Discord.   <br/>
-*Nota: ¡Los enlaces del protocolo Discord se pueden usar en los botones! Consulta [esta discusión](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) para obtener más información. Los enlaces de protocolo no funcionan en Android, no estoy seguro acerca de iOS. (solo <tel://number> funciona en iOS)*   <br/>
+*Nota: ¡Los enlaces del protocolo Discord se pueden usar en los botones! Consulta [esta discusión](https://github.com/discord/discord-api-docs/discussions/3347#discussioncomment-1405699) para obtener más información. Los enlaces de protocolo no funcionan en Android, no estoy seguro acerca de iOS. (solo tel://number funciona en iOS)*   <br/>
 **Enlace:** [Enlaces de protocolo de Discord](https://gist.github.com/ghostrider-05/8f1a0bfc27c7c4509b4ea4e8ce718af0)   <br/>
 **Créditos:** @github:ghostrider-05
 
