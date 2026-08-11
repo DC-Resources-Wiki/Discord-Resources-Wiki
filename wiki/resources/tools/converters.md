@@ -73,6 +73,10 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** Replace a specific colour of an image.  <br/>
 **Link:** [Color Replacer](https://www2.lunapic.com/editor/?action=replace-color)
 
+### SVG to ICO/PNG/JPEG/WEBP
+> **Description:** Convert svg to ICO/PNG/JPEG/WEBP <br/>
+**Link:** [SVG Viewer & Converter](https://svgviewer.app/svg-converter)
+
 ### SVG Converters
 
 > **Description:** High-quality SVG converter.  <br/>
