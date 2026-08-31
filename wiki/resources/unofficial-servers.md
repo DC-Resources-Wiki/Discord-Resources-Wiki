@@ -113,3 +113,11 @@ description: Unofficial servers related to Discord
 **Credit:** owned by @212844004889329664
 
 @gg/tZNRf7WfBU
+
+## Keycord
+
+> **Description:** Keycord is an unofficial Discord help and support server dedicated to assisting global Discord users. <br/>
+**Link:** [Keycord]([https://discord.gg/owner](https://discord.gg/GbTrJcK4mQ))  <br/>
+**Credit:** owned by @723568555362091158
+
+@gg/GbTrJcK4mQ
