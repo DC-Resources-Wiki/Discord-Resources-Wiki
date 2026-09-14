@@ -45,6 +45,12 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** Decodes a Unix timestamp into a standard MM/DD/YYYY format.   <br/>
 **Link:** [Unix Timestamp Decoder](https://www.unixtimestamp.com/)
 
+### Disclock
+
+> **Description:** A free Discord timestamp generator. Pick any date, time and timezone, preview the result, and copy the ready-to-paste timestamp code.   <br/>
+**Link:** [Disclock](https://disclock.io/)
+
+
 ## File Converters
 
 ### EzGif
