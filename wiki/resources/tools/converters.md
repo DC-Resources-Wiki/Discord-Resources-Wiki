@@ -103,6 +103,11 @@ The result will be a dynamic timestamp that displays differently for everyone ba
 > **Description:** A video compressor designed to compress your videos to the perfect size for Discord upload. It comes with three options which are 8MB, 50MB, and 100MB, which fit various upload restrictions.   <br/>
 **Link:** [Video Compressor](https://8mb.video/)
 
+### MakeVideoSmaller
+
+> **Description:** Free video compression in your browser before sharing a clip on Discord. Choose a target size in MB; the video stays on your device. MP4/MOV are recommended, and support depends on your browser. Small targets can reduce resolution, output may exceed the target, and large files can hit mobile memory limits. No account or watermark. Submitted by the MakeVideoSmaller team.   <br/>
+**Link:** [MakeVideoSmaller](https://makevideosmaller.com/)
+
 ## Background Removers
 
 ### Remove Background
